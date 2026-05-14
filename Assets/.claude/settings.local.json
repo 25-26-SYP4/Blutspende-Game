@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python *)",
+      "Bash(Get-ChildItem \"D:\\\\Unity\\\\Blutspendespiel\\\\Blutspende_Spiel\" -Recurse -Depth 1)",
+      "Bash(Select-Object FullName)"
+    ]
+  }
+}

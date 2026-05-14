@@ -1,0 +1,8 @@
+Damit LEvel geladen werden können!! ->
+
+links oben auf File -> Build Profiles
+
+Dort bei Scene List Open Scene List
+
+dort drag and drop alle Level hinzufügen.
+sollten der reihe nach sein

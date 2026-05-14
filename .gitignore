@@ -1,0 +1,35 @@
+# ── Unity generated folders (safe to delete, Unity rebuilds them) ─────────────
+Library/
+Temp/
+Logs/
+obj/
+
+# ── Build output ──────────────────────────────────────────────────────────────
+Builds/
+Build/
+WebGL/
+
+# ── IDE / editor files ────────────────────────────────────────────────────────
+.vs/
+.idea/
+*.csproj
+*.sln
+
+# ── Per-user settings (layout, recent files — different on every machine) ─────
+UserSettings/
+
+# ── Duplicate leftover project copies (not part of the actual project) ────────
+Blutspende_Spiel/
+Blutspende_Spiel (1)/
+Blutspende_Spiel (2)/
+
+# ── OS clutter ────────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+
+# ── Python cache ──────────────────────────────────────────────────────────────
+__pycache__/
+*.pyc
+
+# ── Scoreboard data (runtime file, not source) ────────────────────────────────
+scoreboard.json
